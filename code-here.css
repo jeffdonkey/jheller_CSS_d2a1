@@ -1,27 +1,49 @@
 #classic {
-
+    padding: 1em;
+    text-align: justify;
 }
 
 #modern {
-
+    background-color: gold;
+    text-align: center;
+    padding: 1em 1em 0 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
 
 #impact {
+    border: 10px solid black;
+    border-style: double;
+    background-color: palegreen;
+    text-align: center;
+    padding: 1em 1em 0 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 
 }
 
 #elise {
+    border: 5px solid khaki;
+    border-style: groove;
+    box-shadow: 5px 5px white;
+    background-color: white;
+    text-align: center;
+    padding: 1em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:italic;
+    font-weight: 700;
 
 }
 
-#one, #two  {
+#one,
+#two {
+    display: inline-block;
+    padding: 1em;
+    border: 10px solid rgb(54, 204, 184);
+    border-style: ridge;
+    text-align: center;
+    background-color: aquamarine;
 
 }
 
-#gaudi {
-
-}
-
-
-
-
+#gaudi {}
