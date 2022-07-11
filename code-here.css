@@ -46,4 +46,13 @@
 
 }
 
-#gaudi {}
+#gaudi {
+    padding: 1em;
+    text-align: center;
+    background-color: salmon;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+
+}
